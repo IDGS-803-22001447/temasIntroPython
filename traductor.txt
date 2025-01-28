@@ -1,0 +1,5 @@
+Flor,Flower
+Fiesta,Party
+Pap�,Dad
+Comida,Food
+Rojo,Red
